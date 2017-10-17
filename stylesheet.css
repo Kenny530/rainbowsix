@@ -1,4 +1,4 @@
-.hover{
+.dropbtn{
   background-color:#B5B29F;
   Color:black;
   padding:12px;
@@ -21,7 +21,7 @@
 .dropdown-content a:hover{
   background-color:#DDDCD8
 }
-.dropdown:hover .menu {
+.dropdown:hover .dropbtn {
     background-color: #3e8e41;
 }
   
