@@ -6,7 +6,7 @@
   border:solid;
   cursor:pointer;
 }
-.menu{
+.dropdown{
   position:relative;
   display:inline-block;
 }
