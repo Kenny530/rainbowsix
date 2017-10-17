@@ -3,23 +3,24 @@
   Color:black;
   padding:12px;
   font-size:16px;
-  border:solid;
+  border:none;
   cursor:pointer;
 }
 .dropdown{
   position:relative;
   display:inline-block;
 }
-.dropdown content a{
+.dropdown-content a{
   color:black;
   padding:12px 16px;
   display:block;
 }
-.dropdown:hover .dropdown-content{
-  display:block;
 }
 .dropdown-content a:hover{
   background-color:#DDDCD8
+}
+.dropdown:hover .dropdown-content{
+  display:block;
 }
 .dropdown:hover .dropbtn {
     background-color: #3e8e41;
