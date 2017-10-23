@@ -33,16 +33,15 @@
 .dropdown:hover .dropbtn {
     background-color: #3e8e41;
 }
+
   body{
     background-color:#0f2026;
-}
-body{
-	display: flex;
+	  display: flex;
 	flex-wrap:wrap;
 	height:100vh;
 	width:100vw;
-
 }
+
 .block1{
 	height:60vh;
 	width:40vw;
