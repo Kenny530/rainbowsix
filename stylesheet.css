@@ -43,8 +43,8 @@
 }
 
 .box1{
-	height:60vh;
-	width:40vw;
+	height:80vh;
+	width:60vw;
 	display:flex;
 	flex-wrap:wrap;
 	background-color:blue;
