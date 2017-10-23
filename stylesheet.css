@@ -47,37 +47,36 @@
 	width:80vw;
 	display:flex;
 	flex-wrap:wrap;
-	display:block;
 	background-color:blue;
 	
 }
 .ela{
-	height:33.3%;
+	height:50%;
 	width:50%;
 	background-color:pink;
 }
 .frost{
-	height:33.3%;
+	height:50%;
 	width:50%;
 	background-color:brown;
 }
 .valkyrie{
-	height:33.3%;
+	height:50%;
 	width:50%;
 	background-color:black;
 }
 .smoke{
-	height:33.3%;
+	height:50%;
 	width:50%;
 	background-color:green;
 }
 .bandit{
-	height:33.3%;
+	height:50%;
 	width:50%;
 	background-color:white;
 }
 .tachanka{
-	height:33.3%;
+	height:50%;
 	width:50%;
 	background-color:yellow;
 }
