@@ -43,36 +43,36 @@ body{
 	width:100vw;
 
 }
-.block{
-	height:100vh;
-	width:50vw;
+.block1{
+	height:60vh;
+	width:40vw;
 	display:flex;
 	flex-wrap:wrap;
 	background-color:blue;
 }
 .block2{
-	height:100vh;
-	width:50vw;
+	height:60vh;
+	width:40vw;
 	display:flex;
 	flex-wrap:wrap;
 }
-.dodgers{
-	height:50%;
+.ela{
+	height:33.3%;
 	width:50%;
 	background-color:pink;
 }
 .dodger{
-	height:50%;
+	height:33.3%;
 	width:50%;
 	background-color:brown;
 }
 .astros{
-	height:50%;
+	height:33.3%;
 	width:50%;
 	background-color:black;
 }
 .astro{
-	height:50%;
+	height:33.3%;
 	width:50%;
 	background-color:green;
 }
