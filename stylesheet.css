@@ -47,46 +47,41 @@
 	width:80vw;
 	display:flex;
 	flex-wrap:wrap;
-	background-color:blue;
+	justify-content:center;
 	
 }
 .ela{
-	height:50%;
+	height:33.3%;
 	width:50%;
 	background-color:pink;
 }
 .frost{
-	height:50%;
+	height:33.3%;
 	width:50%;
 	background-color:brown;
 }
 .valkyrie{
-	height:50%;
+	height:33.3%;
 	width:50%;
 	background-color:black;
 }
 .smoke{
-	height:50%;
+	height:33.3%;
 	width:50%;
 	background-color:green;
 }
 .bandit{
-	height:50%;
+	height:33.3%;
 	width:50%;
 	background-color:white;
 }
 .tachanka{
-	height:50%;
+	height:33.3%;
 	width:50%;
 	background-color:yellow;
 }
 @media screen and (max-width: 800px) {
-    .block2{
-        width:100vw;
-    }
-}
-@media screen and (max-width: 800px) {
-    .block{
+    .box1{
         width:100vw;
     }
 }
