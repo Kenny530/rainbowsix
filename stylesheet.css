@@ -8,11 +8,11 @@
 }
 
 .box1{
-	height:60vh;
-	width:40vw;
+	height:50vh;
+	width:50vw;
 	display:flex;
 	flex-wrap:wrap;
-	margin-left:5.2%;
+	margin-left:5%;
 	
 }
 .ela{
@@ -46,11 +46,11 @@
 	background-color:yellow;
 }
 .box2{
-	height:60vh;
-	width:40vw;
+	height:50vh;
+	width:50vw;
 	display:flex;
 	flex-wrap:wrap;
-	margin-left:4.8%;
+	margin-left:5%;
 	
 }
 .iq{
