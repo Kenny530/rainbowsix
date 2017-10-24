@@ -80,8 +80,65 @@
 	width:50%;
 	background-color:yellow;
 }
+.box2{
+	height:80vh;
+	width:50vw;
+	display:flex;
+	flex-wrap:wrap;
+	margin-left:5%;
+	
+}
+.iq{
+	height:33.3%;
+	width:50%;
+	background-color:pink;
+}
+.hibana{
+	height:33.3%;
+	width:50%;
+	background-color:purple;
+}
+.thatcher{
+	height:33.3%;
+	width:50%;
+	background-color:orange;
+}
+.glaz{
+	height:33.3%;
+	width:50%;
+	background-color:green;
+}
+.twitch{
+	height:33.3%;
+	width:50%;
+	background-color:white;
+}
+.jackal{
+	height:33.3%;
+	width:50%;
+	background-color:yellow;
+}
 @media screen and (max-width: 800px) {
     .box1{
         width:100vw;
     }
+	.box2{
+		width:100vw;
+	}
+}
+@media screen and (max-width: 1000px) {
+    .box1{
+        width:100vw;
+    }
+	.box2{
+		width:100vw;
+	}
+}
+@media screen and (max-width: 400px) {
+    .box1{
+        width:100vw;
+    }
+	.box2{
+		width:100vw;
+	}
 }
