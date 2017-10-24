@@ -8,8 +8,8 @@
 }
 
 .box1{
-	height:70vh;
-	width:30vw;
+	height:60vh;
+	width:40vw;
 	display:flex;
 	flex-wrap:wrap;
 	margin-left:5%;
@@ -46,8 +46,8 @@
 	background-color:yellow;
 }
 .box2{
-	height:70vh;
-	width:30vw;
+	height:60vh;
+	width:40vw;
 	display:flex;
 	flex-wrap:wrap;
 	margin-left:5%;
