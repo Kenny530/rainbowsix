@@ -85,7 +85,7 @@
 	background-color:yellow;
 }
 .box{
-	height:500vh;
+	height:50vh;
 	width:100vw;
 	display:flex;
 	flex-wrap:wrap;
