@@ -86,7 +86,7 @@
 }
 .box{
 	height:30vh;
-	width:30vw;
+	width:100vw;
 	display:flex;
 	flex-wrap:wrap;
 	background-color:yellow;
