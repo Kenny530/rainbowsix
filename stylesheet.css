@@ -86,8 +86,8 @@
 }
 .box{
 	height:50vh;
-	width:50vw;
-	padding-top:5%;
+	width:100vw;
+	padding-top:150px;
 	display:flex;
 	flex-wrap:wrap;
 	background-color:yellow;
