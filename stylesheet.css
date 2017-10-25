@@ -87,12 +87,13 @@
 .box{
 	height:50vh;
 	width:100vw;
+	padding-top:5%;
 	display:flex;
 	flex-wrap:wrap;
 	background-color:yellow;
 	margin-left:17.5%;
 	margin-right:17.5%;
-	padding:5%;
+
 }
 	
 @media screen and (max-width: 800px) {
