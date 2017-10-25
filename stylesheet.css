@@ -100,6 +100,9 @@
 	.box2{
 		width:100vw;
 	}
+	.box{
+		width:100vw;
+	}
 }
 @media screen and (max-width: 1000px) {
     .box1{
@@ -108,12 +111,18 @@
 	.box2{
 		width:100vw;
 	}
+	.box{
+		width:100vw;
+	}
 }
 @media screen and (max-width: 400px) {
     .box1{
         width:100vw;
     }
 	.box2{
+		width:100vw;
+	}
+	.box{
 		width:100vw;
 	}
 }
