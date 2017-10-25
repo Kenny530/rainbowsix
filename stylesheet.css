@@ -86,11 +86,12 @@
 }
 .box{
 	height:30vh;
-	width:100vw;
+	width:30vw;
 	display:flex;
 	flex-wrap:wrap;
 	background-color:yellow;
-	margin-left:35%;
+	margin-left:17.5%;
+	margin-right:17.5%;
 }
 	
 @media screen and (max-width: 800px) {
