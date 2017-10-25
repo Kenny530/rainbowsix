@@ -84,6 +84,14 @@
 	width:50%;
 	background-color:yellow;
 }
+.box{
+	height:40vh;
+	width:40vw;
+	display:flex;
+	flex-wrap:wrap;
+	background-color:yellow;
+}
+	
 @media screen and (max-width: 800px) {
     .box1{
         width:100vw;
