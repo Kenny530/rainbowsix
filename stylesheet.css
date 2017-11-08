@@ -21,7 +21,7 @@
 	background-color:pink;
 }
 .mine{
-	content:url("Images/mine.png");
+	content:url(Images/mine.png);
 	height:50%;
 	width:50%;
 }
