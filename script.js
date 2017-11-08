@@ -1,3 +1,3 @@
 function makechange(e){
-  e.classlist.toggle("Images/mine.png");
+  e.classlist.toggle("mine");
 }
