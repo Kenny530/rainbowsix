@@ -22,6 +22,8 @@
 }
 .mine{
 	content:url("Images/mine.png");
+	height:50%;
+	width:50%;
 }
 .frost{
 	height:33.3%;
