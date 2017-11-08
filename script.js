@@ -1,3 +1,3 @@
 function makeChange(e){
-  e.classList.toggle("mine");
+  e.classList.toggle(mine);
 }
