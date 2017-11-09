@@ -21,7 +21,8 @@
 	background-color:pink;
 }
 .mine{
-	content:url(Images/mine.png);
+	content:url(Images/mine.png) height:"100px" width:"100px";
+	
 }
 .frost{
 	height:33.3%;
