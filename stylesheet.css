@@ -15,10 +15,14 @@
 	padding-left:5%;
 	padding-right:5%;
 }
-.ela{
+.grz{
 	height:33.3%;
 	width:50%;
 	background-color:pink;
+}
+.ela{
+	height:200px;
+	width:200px;
 }
 .mine{
 	content:url(Images/mine.png);
