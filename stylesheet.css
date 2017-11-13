@@ -40,6 +40,8 @@
 }
 .bear{
 	content:url(Images/bear.png);
+	height:100%; 
+	width:100%;
 }
 
 .valkyrie{
