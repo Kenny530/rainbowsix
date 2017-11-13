@@ -21,13 +21,13 @@
 	background-color:pink;
 }
 .ela{
-	height:200px;
-	width:400px;
+	height:100%;
+	width:100%;
 }
 .mine{
 	content:url(Images/mine.png);
-	height:200px; 
-	width:400px;
+	height:100%; 
+	width:100%;
 }
 .frost{
 	height:33.3%;
