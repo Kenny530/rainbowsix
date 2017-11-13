@@ -1,6 +1,6 @@
 function makeChange(e){
   e.classList.toggle("mine");
 }
-function makeChange(e){
+function froSty(e){
   e.classList.toggle("bear");
 }
