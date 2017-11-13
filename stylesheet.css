@@ -38,6 +38,9 @@
 	height:100%;
 	width:100%;
 }
+.bear{
+	content:url(Images/bear.png);
+}
 
 .valkyrie{
 	height:33.3%;
