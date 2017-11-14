@@ -97,6 +97,15 @@
 	width:50%;
 	background-color:purple;
 }
+.hib{
+	height:100%;
+	width:100%;
+}
+.pel{
+	content:url(Images/pellet.png);
+	height:100%;
+	width:100%;
+}
 .thatcher{
 	height:33.3%;
 	width:50%;
