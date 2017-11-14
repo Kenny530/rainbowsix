@@ -7,3 +7,6 @@ function froSty(e){
 function blaCk(e){
   e.classList.toggle("black");
 }
+function pelLet(e){
+  e.classList.toggle("pel");
+}
