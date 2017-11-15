@@ -151,6 +151,9 @@
 	.box{
 		width:100vw;
 	}
+	h1{
+		width:100vw;
+	}
 }
 @media screen and (max-width: 1000px) {
     .box1{
@@ -162,6 +165,9 @@
 	.box{
 		width:100vw;
 	}
+	h1{
+		width:100vw;
+	}
 }
 @media screen and (max-width: 400px) {
     .box1{
@@ -171,6 +177,9 @@
 		width:100vw;
 	}
 	.box{
+		width:100vw;
+	}
+	h1{
 		width:100vw;
 	}
 }
