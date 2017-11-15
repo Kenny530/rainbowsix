@@ -140,7 +140,12 @@
 	margin-right:17.5%;
 	margin-top:5%;
 }
-	
+	.defend{
+		display:flex;
+		flex-wrap:wrap;
+		padding-left:5%;
+		padding-right:5%;
+}
 @media screen and (max-width: 800px) {
     .box1{
         width:100vw;
@@ -151,7 +156,7 @@
 	.box{
 		width:100vw;
 	}
-	h1{
+	.defend{
 		width:100vw;
 	}
 }
@@ -165,7 +170,7 @@
 	.box{
 		width:100vw;
 	}
-	h1{
+	.defend{
 		width:100vw;
 	}
 }
@@ -179,7 +184,7 @@
 	.box{
 		width:100vw;
 	}
-	h1{
+	.defend{
 		width:100vw;
 	}
 }
