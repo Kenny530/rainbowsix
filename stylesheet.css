@@ -1,24 +1,54 @@
-  body{
+ body{
     background-color:#0f2026;
 	display: flex;
 	flex-wrap:wrap;
 	height:100vh;
 	width:100vw;
-	margin:0%
+	margin-left:5%;
+	margin-right:5%;
 }
 
+.first {
+	width: 50vw;
+	height: 70vh;
+}
+
+.second {
+	height: 70vh;
+	width: 50vw;
+}
+
+.third {
+	height: 30vh;
+	width: 100vw;
+}
+
+.header{
+	height:10%;
+	width:100%;
+	display:flex;
+	font-size:40px;
+	padding-bottom:20px;
+}
+.att{
+	font-size:40px;
+	padding-left:65%;
+	
+}
+.def{
+	font-size:40px;
+	padding-left:20%;
+}
 .box1{
 	height:60vh;
 	width:40vw;
 	display:flex;
 	flex-wrap:wrap;
-	padding-left:5%;
-	padding-right:5%;
 }
 .grz{
 	height:33.3%;
 	width:50%;
-	background-color:pink;
+	background-color:#09142F;
 }
 .ela{
 	height:100%;
@@ -32,7 +62,7 @@
 .frost{
 	height:33.3%;
 	width:50%;
-	background-color:purple;
+	background-color:#09142F;
 }
 .leg{
 	height:100%;
@@ -47,7 +77,7 @@
 .valkyrie{
 	height:33.3%;
 	width:50%;
-	background-color:orange;
+	background-color:#09142F;
 }
 .eye{
 	height:100%;
@@ -61,19 +91,19 @@
 .smoke{
 	height:33.3%;
 	width:50%;
-	background-color:green;
+	background-color:#09142F;
 }
 
 .bandit{
 	height:33.4%;
 	width:50%;
-	background-color:white;
+	background-color:#09142F;
 }
 
 .tachanka{
 	height:33.4%;
 	width:50%;
-	background-color:yellow;
+	background-color:#09142F;
 }
 
 .box2{
@@ -81,21 +111,19 @@
 	width:40vw;
 	display:flex;
 	flex-wrap:wrap;
-	padding-left:5%;
-	padding-right:5%;
 	
 }
 
 .iq{
 	height:33.3%;
 	width:50%;
-	background-color:pink;
+	background-color:#09142F;
 }
 
 .hibana{
 	height:33.3%;
 	width:50%;
-	background-color:purple;
+	background-color:#09142F;
 }
 .hib{
 	height:100%;
@@ -109,58 +137,62 @@
 .thatcher{
 	height:33.3%;
 	width:50%;
-	background-color:orange;
+	background-color:#09142F;
 }
 
 .glaz{
 	height:33.3%;
 	width:50%;
-	background-color:green;
+	background-color:#09142F;
 }
 
 .twitch{
 	height:33.4%;
 	width:50%;
-	background-color:white;
+	background-color:#09142F;
 }
 
 .jackal{
 	height:33.4%;
 	width:50%;
-	background-color:yellow;
+	background-color:#09142F;
 }
 
 .box{
 	height:50vh;
-	width:100vw;
+	width:90vw;
 	display:flex;
 	flex-wrap:wrap;
-	background-color:yellow;
-	margin-left:17.5%;
-	margin-right:17.5%;
-	margin-top:5%;
+	background-color:#09142F;
 }
 @media screen and (max-width: 800px) {
     .box1{
         width:100vw;
-    }
+		}
 	.box2{
 		width:100vw;
 	}
 	.box{
 		width:100vw;
 	}
+	.first{
+        width:100vw;
+    }
 }
 @media screen and (max-width: 1000px) {
     .box1{
         width:100vw;
-    }
+		}
 	.box2{
 		width:100vw;
 	}
 	.box{
 		width:100vw;
 	}
+	.first{
+        width:100vw;
+	}
+}
 @media screen and (max-width: 400px) {
     .box1{
         width:100vw;
@@ -171,3 +203,7 @@
 	.box{
 		width:100vw;
 	}
+		.first{
+        width:100vw;
+    }
+}
