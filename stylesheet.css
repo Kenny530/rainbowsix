@@ -177,15 +177,28 @@
 	.second{
 		width:50vw;
 		height: 70vh;
+		
 	}
 	.third{
 		width:100vw;
 	}
+	 .box1{
+        width:100vw;
+	
+		}
+	.box2{
+		width:100vw;
+		
+	}
+	.box{
+		width:100vw;
+	}
 }
+
 @media screen and (max-width: 1000px) {
-    .first{
-        width:50vw;
-	height: 70vh;
+	    .first{
+       		 width:50vw;
+		 height: 70vh;	
 		}
 	.second{
 		width:50vw;
@@ -194,12 +207,23 @@
 	.third{
 		width:100vw;
 	}
+	 .box1{
+        width:100vw;
+	
+		}
+	.box2{
+		width:100vw;
+		
+	}
+	.box{
+		width:100vw;
+	}
 }
 @media screen and (max-width: 400px) {
-    .first{
-        width:50vw;
-	height: 70vh;    
-    }
+	    .first{
+        	width:50vw;
+		height: 70vh;
+		}
 	.second{
 		width:50vw;
 		height: 70vh;
@@ -207,4 +231,16 @@
 	.third{
 		width:100vw;
 	}
+     .box1{
+        width:100vw;
+	
+		}
+	.box2{
+		width:100vw;
+		
+	}
+	.box{
+		width:100vw;
+	}
+	
 }
