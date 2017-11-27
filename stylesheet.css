@@ -169,10 +169,10 @@
 }
 @media screen and (max-width: 800px) {
     .first{
-        width:70vw;
+        width:50vw;
 		}
 	.second{
-		width:70vw;
+		width:50vw;
 	}
 	.third{
 		width:100vw;
@@ -180,10 +180,10 @@
 }
 @media screen and (max-width: 1000px) {
     .first{
-        width:70vw;
+        width:50vw;
 		}
 	.second{
-		width:70vw;
+		width:50vw;
 	}
 	.third{
 		width:100vw;
@@ -191,10 +191,10 @@
 }
 @media screen and (max-width: 400px) {
     .first{
-        width:70vw;
+        width:50vw;
     }
 	.second{
-		width:70vw;
+		width:50vw;
 	}
 	.third{
 		width:100vw;
