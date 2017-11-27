@@ -168,44 +168,35 @@
 	background-color:#09142F;
 }
 @media screen and (max-width: 800px) {
-    .box1{
+    .first{
         width:100vw;
 		}
-	.box2{
+	.second{
 		width:100vw;
 	}
-	.box{
+	.third{
 		width:100vw;
 	}
-	.first{
-        width:100vw;
-    }
 }
 @media screen and (max-width: 1000px) {
-    .box1{
+    .first{
         width:100vw;
 		}
-	.box2{
+	.second{
 		width:100vw;
 	}
-	.box{
+	.third{
 		width:100vw;
-	}
-	.first{
-        width:100vw;
 	}
 }
 @media screen and (max-width: 400px) {
-    .box1{
+    .first{
         width:100vw;
     }
-	.box2{
+	.second{
 		width:100vw;
 	}
-	.box{
+	.third{
 		width:100vw;
 	}
-		.first{
-        width:100vw;
-    }
 }
