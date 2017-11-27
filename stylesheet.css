@@ -18,6 +18,8 @@
 .second {
 	height: 70vh;
 	width: 50vw;
+	display: flex;
+	flex-wrap:wrap;
 }
 
 .third {
@@ -170,9 +172,11 @@
 @media screen and (max-width: 800px) {
     .first{
         width:50vw;
+	height: 70vh;
 		}
 	.second{
 		width:50vw;
+		height: 70vh;
 	}
 	.third{
 		width:100vw;
@@ -181,9 +185,11 @@
 @media screen and (max-width: 1000px) {
     .first{
         width:50vw;
+	height: 70vh;
 		}
 	.second{
 		width:50vw;
+		height: 70vh;
 	}
 	.third{
 		width:100vw;
@@ -192,9 +198,11 @@
 @media screen and (max-width: 400px) {
     .first{
         width:50vw;
+	height: 70vh;    
     }
 	.second{
 		width:50vw;
+		height: 70vh;
 	}
 	.third{
 		width:100vw;
