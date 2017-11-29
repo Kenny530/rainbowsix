@@ -4,22 +4,19 @@
 	flex-wrap:wrap;
 	height:100vh;
 	width:100vw;
-	margin-left:60px;
+	margin-left:80px;
 	
 }
 
 .first {
 	width: 50vw;
 	height: 70vh;
-	display: flex;
-	flex-wrap:wrap;
+	
 }
 
 .second {
 	height: 70vh;
 	width: 50vw;
-	display: flex;
-	flex-wrap:wrap;
 }
 
 .third {
@@ -34,15 +31,7 @@
 	font-size:40px;
 	padding-bottom:20px;
 }
-.att{
-	font-size:40px;
-	padding-left:65%;
-	
-}
-.def{
-	font-size:40px;
-	padding-left:20%;
-}
+
 .box1{
 	height:60vh;
 	width:40vw;
@@ -99,7 +88,7 @@
 }
 
 .bandit{
-	height:33.4%;
+	height:33.3%;
 	width:50%;
 	background-color:#09142F;
 }
@@ -115,6 +104,7 @@
 	width:40vw;
 	display:flex;
 	flex-wrap:wrap;
+	
 	
 }
 
@@ -151,7 +141,7 @@
 }
 
 .twitch{
-	height:33.4%;
+	height:33.3%;
 	width:50%;
 	background-color:#09142F;
 }
@@ -170,77 +160,44 @@
 	background-color:#09142F;
 }
 @media screen and (max-width: 800px) {
-    .first{
-        width:50vw;
-	height: 70vh;
-		}
-	.second{
-		width:50vw;
-		height: 70vh;
-		
-	}
-	.third{
-		width:100vw;
-	}
-	 .box1{
+    .box1{
         width:100vw;
-	
 		}
 	.box2{
 		width:100vw;
-		
 	}
 	.box{
 		width:100vw;
 	}
+	.first{
+        width:100vw;
+    }
 }
-
 @media screen and (max-width: 1000px) {
-	    .first{
-       		 width:50vw;
-		 height: 70vh;	
-		}
-	.second{
-		width:50vw;
-		height: 70vh;
-	}
-	.third{
-		width:100vw;
-	}
-	 .box1{
+    .box1{
         width:100vw;
-	
 		}
 	.box2{
 		width:100vw;
-		
 	}
 	.box{
 		width:100vw;
+	}
+	.first{
+        width:100vw;
 	}
 }
 @media screen and (max-width: 400px) {
-	    .first{
-        	width:50vw;
-		height: 70vh;
-		}
-	.second{
-		width:50vw;
-		height: 70vh;
-	}
-	.third{
-		width:100vw;
-	}
-     .box1{
+    .box1{
         width:100vw;
-	
-		}
+    }
 	.box2{
 		width:100vw;
-		
 	}
 	.box{
 		width:100vw;
 	}
-	
+	.first{
+        width:100vw;
+    }
 }
