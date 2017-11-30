@@ -160,6 +160,8 @@
 	display:flex;
 	flex-wrap:wrap;
 	background-color:#09142F;
+	padding-left:17.5%;
+	padding-right:17.5%;
 }
 @media screen and (max-width: 800px) {
     .box1{
