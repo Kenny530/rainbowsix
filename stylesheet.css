@@ -25,7 +25,7 @@
 
 .box1{
 	height:60vh;
-	width:50vw;
+	width:40vw;
 	display:flex;
 	flex-wrap:wrap;
 }
@@ -92,7 +92,7 @@
 
 .box2{
 	height:60vh;
-	width:50vw;
+	width:40vw;
 	display:flex;
 	flex-wrap:wrap;
 }
