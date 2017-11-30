@@ -4,7 +4,7 @@
 	flex-wrap:wrap;
 	height:100vh;
 	width:100vw;
-	margin-left:90px;
+	
 	
 }
 
@@ -37,6 +37,8 @@
 	width:40vw;
 	display:flex;
 	flex-wrap:wrap;
+	padding-left:17.5%;
+	padding-right:17.5%;
 }
 .grz{
 	height:33.3%;
@@ -104,8 +106,8 @@
 	width:40vw;
 	display:flex;
 	flex-wrap:wrap;
-	
-	
+	padding-left:17.5%;
+	padding-right:17.5%;
 }
 
 .iq{
