@@ -11,19 +11,14 @@
 
 .first {
 	width: 50vw;
-	height: 70vh;
+	height: 100vh;
 	
 }
 
 .second {
-	height: 70vh;
+	height: 100vh;
 	width: 50vw;
 	
-}
-
-.third {
-	height: 30vh;
-	width: 100vw;
 }
 
 .box1{
