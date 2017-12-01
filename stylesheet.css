@@ -7,23 +7,13 @@
 	margin-left:-8px;
 	margin-right:-8px;
 }
-
-.first {
-	width: 50vw;
-	height: 100vh;
-}
-
-.second {
-	height: 100vh;
-	width: 50vw;
-}
-
 .box1{
 	height:100vh;
 	width:40vw;
 	display:flex;
 	flex-wrap:wrap;
-	padding-left:100px;
+	margin-left:17.5px;
+	margin-right:17.5px;
 }
 .grz{
 	height:33.3%;
@@ -91,7 +81,8 @@
 	width:40vw;
 	display:flex;
 	flex-wrap:wrap;
-	padding-left:100px;
+	margin-left:17.5px;
+	margin-right:17.5px;
 }
 
 .iq{
@@ -135,14 +126,6 @@
 .jackal{
 	height:33.4%;
 	width:50%;
-	background-color:#09142F;
-}
-
-.box{
-	height:40vh;
-	width:90vw;
-	display:flex;
-	flex-wrap:wrap;
 	background-color:#09142F;
 }
 @media screen and (max-width: 800px) {
