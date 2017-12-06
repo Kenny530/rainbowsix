@@ -1,4 +1,4 @@
- body{
+body{
     background-color:#0f2026;
 	display: flex;
 	flex-wrap:wrap;
@@ -70,7 +70,7 @@
 	height:100%; 
 	width:100%;
 }
-.smoke{
+.jager{
 	height:33.3%;
 	width:50%;
 	background-color:#09142F;
