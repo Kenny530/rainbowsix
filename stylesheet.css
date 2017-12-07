@@ -37,7 +37,7 @@ body{
 	width:100%;
 }
 .mine{
-	content:url(Images/mine.png);
+	content:url(Images/elogo.png);
 	height:100%; 
 	width:100%;
 }
@@ -81,7 +81,7 @@ body{
 	background-color:#FF6D0D;
 }
 .bandit{
-	height:33.3%;
+	height:50%;
 	width:50%;
 	background-color:#FF6D0D;
 }
