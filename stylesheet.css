@@ -7,6 +7,10 @@ body{
 	margin-right:-8px;
 	margin-left:-8px;
 }
+.image{
+	max-height:100%;
+	max-width:80%;
+}
 .header{
 	width:100%;
 	height:15%;
@@ -28,13 +32,9 @@ body{
 
 }
 .grz{
-	height:50%;
+	height:33.3%;
 	width:50%;
 	background-color:#FF6D0D;
-}
-.ela{
-	height:100%;
-	width:100%;
 }
 .mine{
 	content:url(Images/elogo.png);
@@ -42,14 +42,11 @@ body{
 	width:100%;
 }
 .frost{
-	height:50%;
+	height:33.3%;
 	width:50%;
 	background-color:#FF6D0D;
 }
-.leg{
-	height:100%;
-	width:100%;
-}
+
 .bear{
 	content:url(Images/bear.png);
 	height:100%; 
@@ -57,37 +54,30 @@ body{
 }
 
 .valkyrie{
-	height:50%;
+	height:33.3%;
 	width:50%;
 	background-color:#FF6D0D;
 }
-.eye{
-	height:100%;
-	width:100%;
-}
+
 .black{
-	content:url(Images/eye.png);
+	content:url(Images/cam.jpg);
 	height:100%; 
 	width:100%;
 }
 .jager{
-	height:50%;
+	height:33.3%;
 	width:50%;
 	background-color:#FF6D0D;
 }
-.jag{
-	height:100%;
-	width:100%;
-	background-color:#FF6D0D;
-}
+
 .bandit{
-	height:50%;
+	height:33.3%;
 	width:50%;
 	background-color:#FF6D0D;
 }
 
 .tachanka{
-	height:50%;
+	height:33.4%;
 	width:50%;
 	background-color:#FF6D0D;
 }
@@ -97,53 +87,73 @@ body{
 	width:50vw;
 	display:flex;
 	flex-wrap:wrap;
-
 }
 
 .iq{
-	height:50%;
+	height:33.3%;
 	width:50%;
 	background-color:#09142F;
 }
 
-.hibana{
-	height:50%;
-	width:50%;
-	background-color:#09142F;
-}
-.hib{
+.iqg{
+	content:url(Images/eyes.png);
 	height:100%;
 	width:100%;
 }
+.hibana{
+	height:33.3%;
+	width:50%;
+	background-color:#09142F;
+}
+
 .pel{
-	content:url(Images/pellet.png);
+	content:url(Images/hib.png);
 	height:100%;
 	width:100%;
 }
 .thatcher{
-	height:50%;
+	height:33.3%;
 	width:50%;
 	background-color:#09142F;
 }
 
+.light{
+	content:url(Images/emp.png);
+	height:100%;
+	width:100%;
+}
 .glaz{
-	height:50%;
+	height:33.3%;
 	width:50%;
 	background-color:#09142F;
 }
-
+.snipe{
+	height:100%;
+	width:100%;
+	content:url(Images/detail.png);
+}
 .twitch{
-	height:50%;
+	height:33.3%;
 	width:50%;
 	background-color:#09142F;
 }
 
+.shock{
+	height:100%;
+	width:100%;
+	content:url(Images/tlogo.png);
+}
 .jackal{
-	height:50%;
+	height:33.4%;
 	width:50%;
 	background-color:#09142F;
 }
 
+.spain{
+	height:100%;
+	width:100%;
+	content:url(Images/feet.png);
+}
 @media screen and (max-width: 800px) {
     .box1{
         width:100vw;
@@ -165,8 +175,37 @@ body{
 	text-align:center;
 	font-size:50px;
 	}
+	img{
+	max-height:100%;
+	max-width:80%;
 }
-
+}
+@media screen and (max-width: 1000px) {
+    .box1{
+        width:100vw;
+		margin-left:0px;
+    }
+	.box2{
+		width:100vw;
+		margin-left:0px;
+	}
+	.header{
+	width:100%;
+	height:15%;
+	text-align:center;
+	font-size:50px;
+	}
+.header2{
+	width:100%;
+	height:15%;
+	text-align:center;
+	font-size:50px;
+	}
+	img{
+	max-height:100%;
+	max-width:80%;
+	}
+}
 @media screen and (max-width: 400px) {
     .box1{
         width:100vw;
@@ -188,6 +227,9 @@ body{
 	text-align:center;
 	font-size:50px;
 	}
-
+	img{
+	max-height:100%;
+	max-width:80%;
+	}
 }
 
