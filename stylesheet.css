@@ -39,8 +39,9 @@ body{
 }
 .mine{
 	content:url(Images/elogo.png);
-	height:100%; 
-	width:100%;
+	max-height:100%;
+	max-width:80%;
+	justify-content:center;
 }
 .frost{
 	height:33.3%;
@@ -50,8 +51,9 @@ body{
 
 .bear{
 	content:url(Images/bear.png);
-	height:100%; 
-	width:100%;
+	max-height:100%;
+	max-width:80%;
+	justify-content:center;
 }
 
 .valkyrie{
@@ -62,8 +64,9 @@ body{
 
 .black{
 	content:url(Images/cam.jpg);
-	height:100%; 
-	width:100%;
+	max-height:100%;
+	max-width:80%;
+	justify-content:center;
 }
 .jager{
 	height:33.3%;
@@ -98,8 +101,9 @@ body{
 
 .iqg{
 	content:url(Images/eyes.png);
-	height:100%;
-	width:100%;
+	max-height:100%;
+	max-width:80%;
+	justify-content:center;
 }
 .hibana{
 	height:33.3%;
@@ -109,8 +113,9 @@ body{
 
 .pel{
 	content:url(Images/hib.png);
-	height:100%;
-	width:100%;
+	max-height:100%;
+	max-width:80%;
+	justify-content:center;
 }
 .thatcher{
 	height:33.3%;
@@ -120,8 +125,9 @@ body{
 
 .light{
 	content:url(Images/emp.png);
-	height:100%;
-	width:100%;
+	max-height:100%;
+	max-width:80%;
+	justify-content:center;
 }
 .glaz{
 	height:33.3%;
@@ -129,9 +135,10 @@ body{
 	background-color:#09142F;
 }
 .snipe{
-	height:100%;
-	width:100%;
 	content:url(Images/detail.png);
+	max-height:100%;
+	max-width:80%;
+	justify-content:center;
 }
 .twitch{
 	height:33.3%;
@@ -140,9 +147,10 @@ body{
 }
 
 .shock{
-	height:100%;
-	width:100%;
 	content:url(Images/tlogo.png);
+	max-height:100%;
+	max-width:80%;
+	justify-content:center;
 }
 .jackal{
 	height:33.4%;
@@ -151,9 +159,10 @@ body{
 }
 
 .spain{
-	height:100%;
-	width:100%;
 	content:url(Images/feet.png);
+	max-height:100%;
+	max-width:80%;
+	justify-content:center;
 }
 @media screen and (max-width: 800px) {
     .box1{
