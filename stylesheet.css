@@ -37,7 +37,7 @@ body{
 	height:33.3%;
 	width:50%;
 	background-color:#FF6D0D;
-	justify-content:center;
+	text-align:center;
 }
 .mine{
 	content:url(Images/elogo.png);
