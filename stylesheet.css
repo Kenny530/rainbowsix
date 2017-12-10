@@ -43,7 +43,7 @@ body{
 	content:url(Images/elogo.png);
 	max-height:100%;
 	max-width:80%;
-	justify-content:center;
+	text-align:center;
 }
 .frost{
 	height:33.3%;
@@ -56,7 +56,7 @@ body{
 	content:url(Images/bear.png);
 	max-height:100%;
 	max-width:80%;
-	justify-content:center;
+	text-align:center;
 }
 
 .valkyrie{
@@ -70,7 +70,7 @@ body{
 	content:url(Images/cam.jpg);
 	max-height:100%;
 	max-width:80%;
-	justify-content:center;
+	text-align:center;
 }
 .jager{
 	height:33.3%;
@@ -104,78 +104,78 @@ body{
 	height:33.3%;
 	width:50%;
 	background-color:#09142F;
-	justify-content:center;
+	text-align:center;
 }
 
 .iqg{
 	content:url(Images/eyes.png);
 	max-height:100%;
 	max-width:80%;
-	justify-content:center;
+	text-align:center;
 }
 .hibana{
 	height:33.3%;
 	width:50%;
 	background-color:#09142F;
-	justify-content:center;
+	text-align:center;
 }
 
 .pel{
 	content:url(Images/hib.png);
 	max-height:100%;
 	max-width:80%;
-	justify-content:center;
+	text-align:center;
 }
 .thatcher{
 	height:33.3%;
 	width:50%;
 	background-color:#09142F;
-	justify-content:center;
+	text-align:center;
 }
 
 .light{
 	content:url(Images/emp.png);
 	max-height:100%;
 	max-width:80%;
-	justify-content:center;
+	text-align:center;
 }
 .glaz{
 	height:33.3%;
 	width:50%;
 	background-color:#09142F;
-	justify-content:center;
+	text-align:center;
 }
 .snipe{
 	content:url(Images/detail.png);
 	max-height:100%;
 	max-width:80%;
-	justify-content:center;
+	text-align:center;
 }
 .twitch{
 	height:33.3%;
 	width:50%;
 	background-color:#09142F;
-	justify-content:center;
+	text-align:center;
 }
 
 .shock{
 	content:url(Images/tlogo.png);
 	max-height:100%;
 	max-width:80%;
-	justify-content:center;
+	text-align:center;
 }
 .jackal{
 	height:33.4%;
 	width:50%;
 	background-color:#09142F;
-	justify-content:center;
+	text-align:center;
 }
 
 .spain{
 	content:url(Images/feet.png);
 	max-height:100%;
 	max-width:80%;
-	justify-content:center;
+	text-align:center;
 }
 @media screen and (max-width: 800px) {
     .box1{
@@ -201,7 +201,7 @@ body{
 	img{
 	max-height:100%;
 	max-width:80%;
-	justify-content:center;
+	text-align:center;
 }
 }
 @media screen and (max-width: 1000px) {
@@ -228,7 +228,7 @@ body{
 	img{
 	max-height:100%;
 	max-width:80%;
-	justify-content:center;
+	text-align:center;
 	}
 }
 @media screen and (max-width: 400px) {
@@ -255,7 +255,7 @@ body{
 		img{
 	max-height:100%;
 	max-width:80%;
-	justify-content:center;
+	text-align:center;
 	}
 }
 
