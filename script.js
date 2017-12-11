@@ -34,3 +34,7 @@ function scaN(e){
   e.classList.toggle("spain");
   e.classList.toggle("image");
 }
+function banDit(e){
+  e.classList.toggle("shock");
+  e.classList.toggle("image");
+}
