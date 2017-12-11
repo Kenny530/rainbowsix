@@ -35,6 +35,6 @@ function scaN(e){
   e.classList.toggle("image");
 }
 function banDit(e){
-  e.classList.toggle("shock");
+  e.classList.toggle("ban");
   e.classList.toggle("image");
 }
