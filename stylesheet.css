@@ -85,6 +85,12 @@ body{
 	background-color:#FF6D0D;
 	text-align:center;
 }
+.black{
+	content:url(Images/ban.png);
+	max-height:100%;
+	max-width:80%;
+	text-align:center;
+}
 
 .tachanka{
 	height:33.4%;
