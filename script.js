@@ -38,3 +38,7 @@ function banDit(e){
   e.classList.toggle("ban");
   e.classList.toggle("image");
 }
+function jagEr(e){
+  e.classList.toggle("ads");
+  e.classList.toggle("image");
+}
