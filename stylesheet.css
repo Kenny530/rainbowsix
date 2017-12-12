@@ -20,6 +20,7 @@ body{
 	text-align:center;
 	font-size:50px;
 	background-image:url(Images/rainbow.jpg);
+	background-repeat:no-repeat;
 }
 .header2{
 	width:100%;
