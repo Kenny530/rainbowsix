@@ -42,3 +42,7 @@ function jagEr(e){
   e.classList.toggle("ads");
   e.classList.toggle("image");
 }
+function loaDing(e){
+  e.classList.toggle("lmg");
+  e.classList.toggle("image");
+}
