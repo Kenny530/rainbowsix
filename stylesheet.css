@@ -55,7 +55,7 @@ body{
 .bear{
 	content:url(Images/bear.png);
 	max-height:100%;
-	max-width:80%;
+	max-width:100%;
 	text-align:center;
 }
 
@@ -69,7 +69,7 @@ body{
 .black{
 	content:url(Images/cam.png);
 	max-height:100%;
-	max-width:80%;
+	max-width:100%;
 	text-align:center;
 }
 .jager{
