@@ -136,7 +136,7 @@ body{
 .pel{
 	content:url(Images/hib.png);
 	max-height:110%;
-	max-width:90%;
+	max-width:100%;
 	text-align:center;
 }
 .thatcher{
