@@ -122,8 +122,9 @@ body{
 .iqg{
 	content:url(Images/eyes.png);
 	max-height:80%;
-	max-width:80%;
+	max-width:90%;
 	text-align:center;
+	padding-top:5%;
 }
 .hibana{
 	height:33.3%;
