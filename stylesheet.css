@@ -54,8 +54,8 @@ body{
 
 .bear{
 	content:url(Images/bear.png);
-	max-height:110%;
-	max-width:110%;
+	max-height:120%;
+	max-width:120%;
 	text-align:center;
 }
 
