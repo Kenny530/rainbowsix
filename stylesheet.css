@@ -21,6 +21,7 @@ body{
 	font-size:50px;
 	background-image:url(Images/rainbow2.jpg);
 	background-repeat: no-repeat;
+	color:#FFF8F3;
 }
 .header2{
 	width:100%;
@@ -29,6 +30,7 @@ body{
 	font-size:50px;
 	background-image:url(Images/rainbow2.jpg);
 	background-repeat: no-repeat;
+	color:#FFF8F3;
 }
 .box1{
 	height:100vh;
