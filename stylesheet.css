@@ -121,7 +121,7 @@ body{
 
 .iqg{
 	content:url(Images/eyes.png);
-	max-height:80%;
+	max-height:100%;
 	max-width:90%;
 	text-align:center;
 	padding-top:5%;
