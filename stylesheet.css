@@ -35,6 +35,7 @@ body{
 	width:50vw;
 	display:flex;
 	flex-wrap:wrap;
+	border-style: groove;
 }
 .grz{
 	height:33.3%;
@@ -118,6 +119,7 @@ body{
 	width:50vw;
 	display:flex;
 	flex-wrap:wrap;
+	border-style: groove;
 }
 
 .iq{
