@@ -35,7 +35,6 @@ body{
 	width:50vw;
 	display:flex;
 	flex-wrap:wrap;
-	border-style: groove;
 }
 .grz{
 	height:33.3%;
@@ -119,7 +118,6 @@ body{
 	width:50vw;
 	display:flex;
 	flex-wrap:wrap;
-	border-style: groove;
 }
 
 .iq{
@@ -271,12 +269,14 @@ img{
 	height:15%;
 	text-align:center;
 	font-size:50px;
+	text-color:#FFF8F3;
 	}
 		.header2{
 	width:100%;
 	height:15%;
 	text-align:center;
 	font-size:50px;
+	text-color:#FFF8F3;
 	}
 		img{
 	max-height:100%;
