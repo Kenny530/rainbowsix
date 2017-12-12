@@ -7,7 +7,11 @@ body{
 	margin-right:-8px;
 	margin-left:-8px;
 }
-
+.image{
+	max-height:100%;
+	max-width:80%;
+	text-align:center;
+}
 
 .header{
 	width:100%;
@@ -38,7 +42,7 @@ body{
 .mine{
 	content:url(Images/elogo.png);
 	max-height:100%;
-	max-width:80%;
+	max-width:90%;
 	text-align:center;
 }
 .frost{
