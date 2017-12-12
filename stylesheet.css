@@ -42,7 +42,7 @@ body{
 .mine{
 	content:url(Images/elogo.png);
 	max-height:100%;
-	max-width:90%;
+	max-width:100%;
 	text-align:center;
 }
 .frost{
@@ -94,7 +94,7 @@ body{
 .ban{
 	content:url(Images/ban.png);
 	max-height:100%;
-	max-width:80%;
+	max-width:100%;
 	text-align:center;
 }
 
@@ -122,7 +122,7 @@ body{
 .iqg{
 	content:url(Images/eyes.png);
 	max-height:100%;
-	max-width:70%;
+	max-width:100%;
 	text-align:center;
 }
 .hibana{
@@ -135,7 +135,7 @@ body{
 .pel{
 	content:url(Images/hib.png);
 	max-height:100%;
-	max-width:90%;
+	max-width:100%;
 	text-align:center;
 }
 .thatcher{
@@ -148,7 +148,7 @@ body{
 .light{
 	content:url(Images/emp.png);
 	max-height:100%;
-	max-width:80%;
+	max-width:100%;
 	text-align:center;
 }
 .glaz{
@@ -160,7 +160,7 @@ body{
 .snipe{
 	content:url(Images/detail.png);
 	max-height:100%;
-	max-width:80%;
+	max-width:100%;
 	text-align:center;
 }
 .twitch{
@@ -173,7 +173,7 @@ body{
 .shock{
 	content:url(Images/tlogo.png);
 	max-height:100%;
-	max-width:80%;
+	max-width:100%;
 	text-align:center;
 }
 .jackal{
@@ -186,7 +186,7 @@ body{
 .spain{
 	content:url(Images/feet.png);
 	max-height:100%;
-	max-width:90%;
+	max-width:100%;
 	text-align:center;
 }
 @media screen and (max-width: 800px) {
