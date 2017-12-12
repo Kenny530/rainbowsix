@@ -104,7 +104,12 @@ body{
 	background-color:#FF6D0D;
 	text-align:center;
 }
-
+.lmg{
+	content:url(Images/chancka.png);
+	max-height:100%;
+	max-width:80%;
+	text-align:center;
+}
 .box2{
 	height:100vh;
 	width:50vw;
